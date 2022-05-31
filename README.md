@@ -4,3 +4,6 @@ First DSCI100 Git Repository
 Hi 
 
 😃
+
+We can close our project down into our home folder
+Use the https URL
